@@ -24,11 +24,15 @@
 
 **Screenshots**
 
+<!--
 <figure class="third" align="center">
     <img src="assets/screenshot-1.png" width="20%">
     <img src="assets/screenshot-2.png" width="20%">
     <img src="assets/screenshot-3.png" width="20%">
 </figure>
+-->
+
+![]("assets/screenshot-1.png") ![]("assets/screenshot-2.png") ![]("assets/screenshot-3.png")
 
 [Support libraries]: https://developer.android.com/jetpack/androidx/
 [Okhttp]: https://github.com/square/okhttp
