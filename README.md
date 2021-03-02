@@ -25,9 +25,9 @@
 **Screenshots**
 
 <figure class="third" align="center">
-    <img src="assets/screenshot-1.png" width="28%">
-    <img src="assets/screenshot-2.png" width="28%">
-    <img src="assets/screenshot-3.png" width="28%">
+    <img src="assets/screenshot-1.png" width="20%">
+    <img src="assets/screenshot-2.png" width="20%">
+    <img src="assets/screenshot-3.png" width="20%">
 </figure>
 
 [Support libraries]: https://developer.android.com/jetpack/androidx/
