@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_search_word"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="12dp">
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:stretchColumns="1">
+        <TableRow>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:text="单词"
+                android:textSize="20sp"
+                android:gravity="center_vertical"/>
+           <EditText
+               android:id="@+id/search_pattern"
+               android:layout_height="wrap_content"
+               android:layout_width="0dp"
+               android:layout_weight="1"
+               android:layout_marginLeft="5dp"
+               android:hint=""
+               android:textSize="20sp"
+               android:selectAllOnFocus="true"
+               android:maxLines="1"
+               android:padding="5dp"
+               android:background="@drawable/edittext_bg"/>
+        </TableRow>
+
+    </TableLayout>
+</LinearLayout>
