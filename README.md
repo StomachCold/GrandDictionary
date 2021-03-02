@@ -32,7 +32,7 @@
 </figure>
 -->
 
-![](assets/screenshot-1.png) ![](assets/screenshot-2.png) ![](assets/screenshot-3.png)
+<p align="center"><img src="assets/screenshot.png" width="85%"/></p>
 
 [Support libraries]: https://developer.android.com/jetpack/androidx/
 [Okhttp]: https://github.com/square/okhttp
